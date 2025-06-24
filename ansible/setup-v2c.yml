@@ -1,0 +1,43 @@
+---
+- name: Setup V2C ML Backend on EC2
+  hosts: v2c
+  become: yes
+
+  tasks:
+    - name: Update apt
+      apt:
+        update_cache: yes
+
+    - name: Install dependencies
+      apt:
+        name: "{{ item }}"
+        state: present
+      loop:
+        - python3-pip
+        - git
+        - docker.io
+
+    - name: Start Docker
+      service:
+        name: docker
+        state: started
+        enabled: yes
+
+    - name: Add ubuntu user to docker group
+      user:
+        name: ubuntu
+        groups: docker
+        append: yes
+
+    - name: Clone V2C project from GitHub
+      git:
+        repo: https://github.com/navjoth/v2c.git
+        dest: /home/ubuntu/v2c
+
+    - name: Build Docker image
+      command: docker build -t v2c-backend .
+      args:
+        chdir: /home/ubuntu/v2c/backend_api
+
+    - name: Run Docker container
+      command: docker run -d -p 5000:5000 v2c-backend

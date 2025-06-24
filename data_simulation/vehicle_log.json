@@ -1,0 +1,802 @@
+[
+    {
+        "timestamp": "2025-06-24T02:51:49.611276",
+        "speed": 32.58,
+        "rpm": 2178.0,
+        "fuel_rate": 6.7,
+        "brake_pressure": 83.44,
+        "throttle_position": 27.63
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611311",
+        "speed": 133.68,
+        "rpm": 896.0,
+        "fuel_rate": 16.51,
+        "brake_pressure": 89.73,
+        "throttle_position": 42.41
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611325",
+        "speed": 38.39,
+        "rpm": 5056.0,
+        "fuel_rate": 17.18,
+        "brake_pressure": 52.34,
+        "throttle_position": 17.53
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611338",
+        "speed": 138.31,
+        "rpm": 4100.0,
+        "fuel_rate": 6.57,
+        "brake_pressure": 76.53,
+        "throttle_position": 43.82
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611350",
+        "speed": 9.35,
+        "rpm": 2031.0,
+        "fuel_rate": 16.34,
+        "brake_pressure": 63.03,
+        "throttle_position": 19.86
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611363",
+        "speed": 60.59,
+        "rpm": 3932.0,
+        "fuel_rate": 4.47,
+        "brake_pressure": 56.57,
+        "throttle_position": 63.54
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611727",
+        "speed": 88.24,
+        "rpm": 1357.0,
+        "fuel_rate": 13.05,
+        "brake_pressure": 11.93,
+        "throttle_position": 75.44
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611745",
+        "speed": 56.36,
+        "rpm": 4084.0,
+        "fuel_rate": 7.19,
+        "brake_pressure": 12.11,
+        "throttle_position": 87.61
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611756",
+        "speed": 66.78,
+        "rpm": 2570.0,
+        "fuel_rate": 17.52,
+        "brake_pressure": 83.1,
+        "throttle_position": 17.05
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611786",
+        "speed": 61.61,
+        "rpm": 5379.0,
+        "fuel_rate": 10.51,
+        "brake_pressure": 18.45,
+        "throttle_position": 18.75
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611798",
+        "speed": 114.88,
+        "rpm": 3995.0,
+        "fuel_rate": 4.76,
+        "brake_pressure": 15.97,
+        "throttle_position": 97.12
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611809",
+        "speed": 20.56,
+        "rpm": 4967.0,
+        "fuel_rate": 8.73,
+        "brake_pressure": 54.06,
+        "throttle_position": 59.65
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611820",
+        "speed": 16.41,
+        "rpm": 4371.0,
+        "fuel_rate": 6.11,
+        "brake_pressure": 22.92,
+        "throttle_position": 62.94
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611832",
+        "speed": 56.78,
+        "rpm": 5240.0,
+        "fuel_rate": 13.48,
+        "brake_pressure": 50.51,
+        "throttle_position": 68.48
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611844",
+        "speed": 87.91,
+        "rpm": 5356.0,
+        "fuel_rate": 5.32,
+        "brake_pressure": 59.89,
+        "throttle_position": 11.25
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611855",
+        "speed": 61.35,
+        "rpm": 5073.0,
+        "fuel_rate": 3.21,
+        "brake_pressure": 57.14,
+        "throttle_position": 2.96
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611950",
+        "speed": 14.6,
+        "rpm": 3366.0,
+        "fuel_rate": 12.49,
+        "brake_pressure": 86.98,
+        "throttle_position": 20.82
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611967",
+        "speed": 113.42,
+        "rpm": 3365.0,
+        "fuel_rate": 2.91,
+        "brake_pressure": 44.74,
+        "throttle_position": 82.91
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611979",
+        "speed": 32.49,
+        "rpm": 5419.0,
+        "fuel_rate": 2.63,
+        "brake_pressure": 63.96,
+        "throttle_position": 50.03
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.611992",
+        "speed": 29.51,
+        "rpm": 1436.0,
+        "fuel_rate": 18.14,
+        "brake_pressure": 47.7,
+        "throttle_position": 30.01
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612003",
+        "speed": 23.84,
+        "rpm": 3704.0,
+        "fuel_rate": 9.23,
+        "brake_pressure": 27.06,
+        "throttle_position": 15.25
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612036",
+        "speed": 117.45,
+        "rpm": 5373.0,
+        "fuel_rate": 5.62,
+        "brake_pressure": 11.92,
+        "throttle_position": 34.69
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612048",
+        "speed": 42.06,
+        "rpm": 4921.0,
+        "fuel_rate": 6.62,
+        "brake_pressure": 4.63,
+        "throttle_position": 21.46
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612059",
+        "speed": 72.84,
+        "rpm": 1754.0,
+        "fuel_rate": 11.54,
+        "brake_pressure": 98.71,
+        "throttle_position": 38.66
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612080",
+        "speed": 114.88,
+        "rpm": 4489.0,
+        "fuel_rate": 3.11,
+        "brake_pressure": 85.43,
+        "throttle_position": 24.1
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612161",
+        "speed": 112.97,
+        "rpm": 1069.0,
+        "fuel_rate": 16.86,
+        "brake_pressure": 78.92,
+        "throttle_position": 58.69
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612177",
+        "speed": 44.49,
+        "rpm": 5204.0,
+        "fuel_rate": 3.98,
+        "brake_pressure": 54.29,
+        "throttle_position": 93.49
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612189",
+        "speed": 46.26,
+        "rpm": 3478.0,
+        "fuel_rate": 8.99,
+        "brake_pressure": 2.38,
+        "throttle_position": 39.47
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612200",
+        "speed": 91.64,
+        "rpm": 851.0,
+        "fuel_rate": 15.14,
+        "brake_pressure": 83.15,
+        "throttle_position": 91.1
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612211",
+        "speed": 49.95,
+        "rpm": 4240.0,
+        "fuel_rate": 15.53,
+        "brake_pressure": 13.42,
+        "throttle_position": 12.01
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612223",
+        "speed": 33.78,
+        "rpm": 1667.0,
+        "fuel_rate": 16.78,
+        "brake_pressure": 77.79,
+        "throttle_position": 56.13
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612234",
+        "speed": 113.14,
+        "rpm": 1161.0,
+        "fuel_rate": 11.47,
+        "brake_pressure": 30.93,
+        "throttle_position": 21.12
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612246",
+        "speed": 77.86,
+        "rpm": 4833.0,
+        "fuel_rate": 8.98,
+        "brake_pressure": 16.17,
+        "throttle_position": 61.79
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612258",
+        "speed": 42.17,
+        "rpm": 4470.0,
+        "fuel_rate": 5.4,
+        "brake_pressure": 53.61,
+        "throttle_position": 4.72
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612270",
+        "speed": 33.23,
+        "rpm": 5091.0,
+        "fuel_rate": 17.76,
+        "brake_pressure": 31.24,
+        "throttle_position": 60.71
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612313",
+        "speed": 102.26,
+        "rpm": 4130.0,
+        "fuel_rate": 11.68,
+        "brake_pressure": 68.72,
+        "throttle_position": 82.13
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612325",
+        "speed": 12.32,
+        "rpm": 5181.0,
+        "fuel_rate": 5.72,
+        "brake_pressure": 59.47,
+        "throttle_position": 31.56
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612337",
+        "speed": 102.9,
+        "rpm": 5155.0,
+        "fuel_rate": 8.05,
+        "brake_pressure": 27.9,
+        "throttle_position": 50.86
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612349",
+        "speed": 117.53,
+        "rpm": 1768.0,
+        "fuel_rate": 13.49,
+        "brake_pressure": 19.07,
+        "throttle_position": 27.48
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612361",
+        "speed": 49.55,
+        "rpm": 2730.0,
+        "fuel_rate": 17.9,
+        "brake_pressure": 5.7,
+        "throttle_position": 89.0
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612373",
+        "speed": 13.0,
+        "rpm": 4072.0,
+        "fuel_rate": 4.55,
+        "brake_pressure": 84.33,
+        "throttle_position": 75.29
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612386",
+        "speed": 107.85,
+        "rpm": 5817.0,
+        "fuel_rate": 6.81,
+        "brake_pressure": 14.95,
+        "throttle_position": 88.91
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612406",
+        "speed": 62.45,
+        "rpm": 5400.0,
+        "fuel_rate": 4.41,
+        "brake_pressure": 81.18,
+        "throttle_position": 88.34
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612418",
+        "speed": 57.62,
+        "rpm": 5611.0,
+        "fuel_rate": 11.94,
+        "brake_pressure": 90.87,
+        "throttle_position": 79.16
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612430",
+        "speed": 35.81,
+        "rpm": 5294.0,
+        "fuel_rate": 13.72,
+        "brake_pressure": 59.59,
+        "throttle_position": 3.44
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612443",
+        "speed": 35.57,
+        "rpm": 4550.0,
+        "fuel_rate": 17.97,
+        "brake_pressure": 99.97,
+        "throttle_position": 24.8
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612600",
+        "speed": 129.36,
+        "rpm": 3134.0,
+        "fuel_rate": 17.57,
+        "brake_pressure": 97.81,
+        "throttle_position": 86.8
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612623",
+        "speed": 69.71,
+        "rpm": 2131.0,
+        "fuel_rate": 9.41,
+        "brake_pressure": 29.65,
+        "throttle_position": 86.16
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612636",
+        "speed": 0.71,
+        "rpm": 1680.0,
+        "fuel_rate": 4.64,
+        "brake_pressure": 36.07,
+        "throttle_position": 35.26
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612648",
+        "speed": 65.68,
+        "rpm": 5895.0,
+        "fuel_rate": 2.72,
+        "brake_pressure": 71.19,
+        "throttle_position": 74.69
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612659",
+        "speed": 76.11,
+        "rpm": 4645.0,
+        "fuel_rate": 14.71,
+        "brake_pressure": 14.19,
+        "throttle_position": 79.39
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612671",
+        "speed": 93.03,
+        "rpm": 2794.0,
+        "fuel_rate": 3.82,
+        "brake_pressure": 60.76,
+        "throttle_position": 12.44
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612682",
+        "speed": 89.8,
+        "rpm": 3507.0,
+        "fuel_rate": 2.22,
+        "brake_pressure": 82.41,
+        "throttle_position": 84.08
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612696",
+        "speed": 2.66,
+        "rpm": 1747.0,
+        "fuel_rate": 15.77,
+        "brake_pressure": 59.3,
+        "throttle_position": 47.59
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612723",
+        "speed": 24.93,
+        "rpm": 871.0,
+        "fuel_rate": 4.55,
+        "brake_pressure": 97.22,
+        "throttle_position": 17.92
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612736",
+        "speed": 37.51,
+        "rpm": 1119.0,
+        "fuel_rate": 18.49,
+        "brake_pressure": 43.96,
+        "throttle_position": 85.33
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612748",
+        "speed": 24.94,
+        "rpm": 2158.0,
+        "fuel_rate": 7.65,
+        "brake_pressure": 83.63,
+        "throttle_position": 87.31
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612760",
+        "speed": 132.11,
+        "rpm": 4499.0,
+        "fuel_rate": 18.07,
+        "brake_pressure": 79.86,
+        "throttle_position": 78.6
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612772",
+        "speed": 54.57,
+        "rpm": 5961.0,
+        "fuel_rate": 19.18,
+        "brake_pressure": 92.35,
+        "throttle_position": 23.07
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612793",
+        "speed": 111.07,
+        "rpm": 5493.0,
+        "fuel_rate": 4.09,
+        "brake_pressure": 95.5,
+        "throttle_position": 83.92
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612811",
+        "speed": 19.68,
+        "rpm": 4204.0,
+        "fuel_rate": 8.58,
+        "brake_pressure": 25.91,
+        "throttle_position": 67.31
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612823",
+        "speed": 125.6,
+        "rpm": 1260.0,
+        "fuel_rate": 13.48,
+        "brake_pressure": 11.52,
+        "throttle_position": 43.53
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612835",
+        "speed": 113.65,
+        "rpm": 1894.0,
+        "fuel_rate": 19.09,
+        "brake_pressure": 26.07,
+        "throttle_position": 85.07
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612847",
+        "speed": 96.81,
+        "rpm": 3508.0,
+        "fuel_rate": 10.74,
+        "brake_pressure": 90.85,
+        "throttle_position": 79.33
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612859",
+        "speed": 24.27,
+        "rpm": 2870.0,
+        "fuel_rate": 14.05,
+        "brake_pressure": 67.9,
+        "throttle_position": 73.37
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612873",
+        "speed": 83.33,
+        "rpm": 4044.0,
+        "fuel_rate": 12.66,
+        "brake_pressure": 84.03,
+        "throttle_position": 15.06
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612884",
+        "speed": 13.08,
+        "rpm": 5921.0,
+        "fuel_rate": 14.96,
+        "brake_pressure": 73.31,
+        "throttle_position": 13.8
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612896",
+        "speed": 59.17,
+        "rpm": 2733.0,
+        "fuel_rate": 12.6,
+        "brake_pressure": 87.2,
+        "throttle_position": 49.46
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612908",
+        "speed": 78.39,
+        "rpm": 4808.0,
+        "fuel_rate": 17.62,
+        "brake_pressure": 1.16,
+        "throttle_position": 28.0
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612920",
+        "speed": 109.0,
+        "rpm": 5046.0,
+        "fuel_rate": 7.11,
+        "brake_pressure": 69.96,
+        "throttle_position": 16.9
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612932",
+        "speed": 41.19,
+        "rpm": 1647.0,
+        "fuel_rate": 9.77,
+        "brake_pressure": 57.8,
+        "throttle_position": 86.51
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612944",
+        "speed": 87.0,
+        "rpm": 1293.0,
+        "fuel_rate": 19.82,
+        "brake_pressure": 85.81,
+        "throttle_position": 33.25
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612957",
+        "speed": 15.21,
+        "rpm": 3726.0,
+        "fuel_rate": 12.04,
+        "brake_pressure": 47.49,
+        "throttle_position": 97.65
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612969",
+        "speed": 93.83,
+        "rpm": 4927.0,
+        "fuel_rate": 7.17,
+        "brake_pressure": 57.53,
+        "throttle_position": 42.08
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.612981",
+        "speed": 122.82,
+        "rpm": 1018.0,
+        "fuel_rate": 2.04,
+        "brake_pressure": 54.58,
+        "throttle_position": 77.28
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613004",
+        "speed": 30.24,
+        "rpm": 1070.0,
+        "fuel_rate": 14.59,
+        "brake_pressure": 80.57,
+        "throttle_position": 63.95
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613016",
+        "speed": 59.23,
+        "rpm": 5809.0,
+        "fuel_rate": 7.7,
+        "brake_pressure": 53.65,
+        "throttle_position": 23.54
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613037",
+        "speed": 92.3,
+        "rpm": 5244.0,
+        "fuel_rate": 19.31,
+        "brake_pressure": 6.36,
+        "throttle_position": 49.35
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613049",
+        "speed": 132.8,
+        "rpm": 3734.0,
+        "fuel_rate": 9.88,
+        "brake_pressure": 14.94,
+        "throttle_position": 44.76
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613061",
+        "speed": 21.91,
+        "rpm": 1091.0,
+        "fuel_rate": 19.8,
+        "brake_pressure": 25.93,
+        "throttle_position": 96.92
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613081",
+        "speed": 81.55,
+        "rpm": 945.0,
+        "fuel_rate": 15.88,
+        "brake_pressure": 77.3,
+        "throttle_position": 18.07
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613094",
+        "speed": 119.63,
+        "rpm": 5733.0,
+        "fuel_rate": 12.73,
+        "brake_pressure": 31.89,
+        "throttle_position": 52.83
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613105",
+        "speed": 116.72,
+        "rpm": 2551.0,
+        "fuel_rate": 2.17,
+        "brake_pressure": 0.89,
+        "throttle_position": 22.71
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613118",
+        "speed": 96.33,
+        "rpm": 5992.0,
+        "fuel_rate": 7.97,
+        "brake_pressure": 40.74,
+        "throttle_position": 8.09
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613130",
+        "speed": 47.52,
+        "rpm": 1998.0,
+        "fuel_rate": 3.45,
+        "brake_pressure": 43.31,
+        "throttle_position": 65.49
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613150",
+        "speed": 104.0,
+        "rpm": 2943.0,
+        "fuel_rate": 2.06,
+        "brake_pressure": 33.17,
+        "throttle_position": 73.9
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613161",
+        "speed": 10.88,
+        "rpm": 5073.0,
+        "fuel_rate": 13.47,
+        "brake_pressure": 2.32,
+        "throttle_position": 88.02
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613175",
+        "speed": 19.14,
+        "rpm": 1179.0,
+        "fuel_rate": 6.76,
+        "brake_pressure": 46.91,
+        "throttle_position": 72.97
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613186",
+        "speed": 23.57,
+        "rpm": 806.0,
+        "fuel_rate": 11.53,
+        "brake_pressure": 29.63,
+        "throttle_position": 1.02
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613197",
+        "speed": 48.28,
+        "rpm": 1745.0,
+        "fuel_rate": 15.32,
+        "brake_pressure": 84.55,
+        "throttle_position": 48.69
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613209",
+        "speed": 19.28,
+        "rpm": 3044.0,
+        "fuel_rate": 19.93,
+        "brake_pressure": 96.31,
+        "throttle_position": 91.29
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613220",
+        "speed": 51.11,
+        "rpm": 3129.0,
+        "fuel_rate": 18.37,
+        "brake_pressure": 77.69,
+        "throttle_position": 6.37
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613231",
+        "speed": 118.73,
+        "rpm": 3637.0,
+        "fuel_rate": 14.84,
+        "brake_pressure": 89.29,
+        "throttle_position": 16.79
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613246",
+        "speed": 37.89,
+        "rpm": 5243.0,
+        "fuel_rate": 8.79,
+        "brake_pressure": 4.41,
+        "throttle_position": 58.57
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613257",
+        "speed": 22.28,
+        "rpm": 2275.0,
+        "fuel_rate": 8.43,
+        "brake_pressure": 60.34,
+        "throttle_position": 76.7
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613269",
+        "speed": 55.79,
+        "rpm": 4353.0,
+        "fuel_rate": 4.83,
+        "brake_pressure": 48.93,
+        "throttle_position": 50.33
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613281",
+        "speed": 86.04,
+        "rpm": 4236.0,
+        "fuel_rate": 9.64,
+        "brake_pressure": 73.66,
+        "throttle_position": 20.73
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613293",
+        "speed": 103.48,
+        "rpm": 3752.0,
+        "fuel_rate": 4.76,
+        "brake_pressure": 89.46,
+        "throttle_position": 94.86
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613305",
+        "speed": 45.41,
+        "rpm": 1117.0,
+        "fuel_rate": 6.95,
+        "brake_pressure": 78.48,
+        "throttle_position": 32.75
+    },
+    {
+        "timestamp": "2025-06-24T02:51:49.613326",
+        "speed": 47.18,
+        "rpm": 1571.0,
+        "fuel_rate": 19.1,
+        "brake_pressure": 80.79,
+        "throttle_position": 2.04
+    }
+]
